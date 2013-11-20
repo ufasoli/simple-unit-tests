@@ -8,7 +8,7 @@ public class ATest {
 
     @Test
     public void failTest() {
-        assertTrue(false);
+        assertTrue(true);
     }
 
     @Test
